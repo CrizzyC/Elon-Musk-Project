@@ -1,0 +1,62 @@
+div {
+    border: 2px solid white;
+}
+
+img {
+    width: 200px;
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+    background-image: linear-gradient(black, yellow);
+
+}
+
+.title {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-image: url(https://electrek.co/wp-content/uploads/sites/3/2021/05/Tesla-Logo-Hero.jpg?quality=82&strip=all&w=1000);
+    font-family: 'Tapestry', cursive;
+}
+
+body {
+    background-image: url(https://wallpaperaccess.com/full/1396544.jpg);
+    color: white;
+    font-family: 'Poppins', sans-serif; 
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.image {
+    display: flex;
+    margin: 10px;
+}
+
+.wiki {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Wikipedia_logo_%28svg%29.svg/1200px-Wikipedia_logo_%28svg%29.svg.png);
+}
+
+.aboutMe {
+    display: flex;
+    
+}
+
+
+.black {
+    color: blue;
+     text-shadow:
+        0  2px #FFFF00,
+        0 0 10px #FFFF00,
+        0 0 20px #FFFF00,
+        0 0 100px #FFFF00;
+}
+.border {
+    border: 10px groove red;
+}
+.padding {
+    padding: 10px;
+}
